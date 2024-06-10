@@ -1,0 +1,13 @@
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\bin\Debug\SQL_Server_Connect.exe.config
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\bin\Debug\SQL_Server_Connect.exe
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\bin\Debug\SQL_Server_Connect.pdb
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\bin\Debug\System.Data.OleDb.dll
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\bin\Debug\System.Data.OleDb.xml
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\obj\Debug\SQL_Server_Connect.csproj.AssemblyReference.cache
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\obj\Debug\SQL_Server_Connect.Properties.Resources.resources
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\obj\Debug\SQL_Server_Connect.csproj.GenerateResource.cache
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\obj\Debug\SQL_Server_Connect.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\obj\Debug\SQL_Serv.4AD26681.Up2Date
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\obj\Debug\SQL_Server_Connect.exe
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\obj\Debug\SQL_Server_Connect.pdb
+C:\My work programm\C#\WF_31_Kyban_08\SQL_Server_Connect\obj\Debug\SQL_Server_Connect.FormDB.resources

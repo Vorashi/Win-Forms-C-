@@ -1,0 +1,10 @@
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\bin\Debug\Task_02_Option_17.exe.config
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\bin\Debug\Task_02_Option_17.exe
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\bin\Debug\Task_02_Option_17.pdb
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\obj\Debug\Task_02_Option_17.csproj.AssemblyReference.cache
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\obj\Debug\Task_02_Option_17.Task_02.resources
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\obj\Debug\Task_02_Option_17.Properties.Resources.resources
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\obj\Debug\Task_02_Option_17.csproj.GenerateResource.cache
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\obj\Debug\Task_02_Option_17.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\obj\Debug\Task_02_Option_17.exe
+C:\My work programm\C#\WF_21_Kyban_04\Task_02_Option_17\obj\Debug\Task_02_Option_17.pdb

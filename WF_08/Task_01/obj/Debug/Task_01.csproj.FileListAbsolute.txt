@@ -1,0 +1,10 @@
+C:\My work programm\C#\WF_08\Task_01\bin\Debug\Task_01.exe.config
+C:\My work programm\C#\WF_08\Task_01\bin\Debug\Task_01.exe
+C:\My work programm\C#\WF_08\Task_01\bin\Debug\Task_01.pdb
+C:\My work programm\C#\WF_08\Task_01\obj\Debug\Task_01.csproj.AssemblyReference.cache
+C:\My work programm\C#\WF_08\Task_01\obj\Debug\Task_01.Form1.resources
+C:\My work programm\C#\WF_08\Task_01\obj\Debug\Task_01.Properties.Resources.resources
+C:\My work programm\C#\WF_08\Task_01\obj\Debug\Task_01.csproj.GenerateResource.cache
+C:\My work programm\C#\WF_08\Task_01\obj\Debug\Task_01.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\WF_08\Task_01\obj\Debug\Task_01.exe
+C:\My work programm\C#\WF_08\Task_01\obj\Debug\Task_01.pdb

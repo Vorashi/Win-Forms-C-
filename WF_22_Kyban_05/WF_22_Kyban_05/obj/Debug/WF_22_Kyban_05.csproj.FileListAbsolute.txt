@@ -1,0 +1,10 @@
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\bin\Debug\WF_22_Kyban_05.exe.config
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\bin\Debug\WF_22_Kyban_05.exe
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\bin\Debug\WF_22_Kyban_05.pdb
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\obj\Debug\WF_22_Kyban_05.csproj.AssemblyReference.cache
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\obj\Debug\WF_22_Kyban_05.Task_01.resources
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\obj\Debug\WF_22_Kyban_05.Properties.Resources.resources
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\obj\Debug\WF_22_Kyban_05.csproj.GenerateResource.cache
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\obj\Debug\WF_22_Kyban_05.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\obj\Debug\WF_22_Kyban_05.exe
+C:\My work programm\C#\WF_22_Kyban_05\WF_22_Kyban_05\obj\Debug\WF_22_Kyban_05.pdb
